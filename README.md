@@ -11,6 +11,16 @@ Unified Ease Erase (UEE) is a secure data sanitization system designed for Linux
 - Full-featured CLI for power users.
 - Optional GUI client layered over the CLI for convenience.
 
+To run TUI version of UEE:  
+```bash
+sudo python3 uee-tui.py
+```
+
+To run CLI version of UEE:  
+```bash
+sudo python3 uee-cli.py
+```
+
 ### Android (via ADB)
 - Automated, minimal-interaction wipe workflow.
 - Supports complete internal storage wipe and factory reset processes.
