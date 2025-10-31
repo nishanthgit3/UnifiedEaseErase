@@ -2,7 +2,10 @@
 
 Unified Ease Erase (UEE) is a secure data sanitization system designed for Linux systems and Android devices through ADB. It provides a streamlined user experience for beginners while offering extensive configurability for advanced users and large-scale device processing. UEE focuses on reliability, clarity, and consistent behavior across supported platforms and storage types.  
 
-[![Demo](https://github.com/nishanthgit3/UnifiedEaseErase/blob/main/extras/thumbnail.png)](https://github.com/nishanthgit3/UnifiedEaseErase/blob/main/extras/demo.mp4)
+
+https://github.com/user-attachments/assets/6f0cb345-91f6-48a4-9590-a143d40dd75f
+
+
 ---
 
 ## 1. Supported Platforms
